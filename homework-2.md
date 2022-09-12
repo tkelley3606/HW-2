@@ -4,3 +4,5 @@
 |**COP**|**2271**|_Introduction to Computation and Programming_| 3 |
 |**COP**|**2071**|_Introduction to Data Science_| 3 |
 |**ISC**|**2310**|_Python for Data Analytics_| 3 |
+
+![practice-repo](https://github.com/tkelley3606/practice-repo/blob/main/practice-repo.png)
